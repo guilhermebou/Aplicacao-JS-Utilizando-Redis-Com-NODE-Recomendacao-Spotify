@@ -1,6 +1,6 @@
 Apresentação https://www.youtube.com/watch?v=tU3oU0jkKZ4&t=9s
 
-# Aplica-o-JS-utilizando-Redis-com-NODE-Recomendacao-Spotify
+# Aplicacao-JS-utilizando-Redis-com-NODE-Recomendacao-Spotify
 
 Aplicação JS utilizando Redis com NODE - Recomendação Spotify \\ Trabalho UFU 2021-2 GSI520  BD1 
 
