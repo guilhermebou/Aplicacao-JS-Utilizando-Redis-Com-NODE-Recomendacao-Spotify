@@ -4,6 +4,11 @@ Apresentação https://www.youtube.com/watch?v=tU3oU0jkKZ4&t=9s
 
 Aplicação JS utilizando Redis com NODE - Recomendação Spotify \\ Trabalho UFU 2021-2 GSI520  BD1 
 
+-> Spotify API <-
+
+[DOC] https://developer.spotify.com/console/get-recommendations
+
+
 -> Chocolatey 0.11.2 <-
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
