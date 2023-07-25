@@ -56,11 +56,10 @@ Yarn start
 ```
 # 📖🔗 Documentação / Links de instalação
 
+| x | x |
 | -------- | ------- |
 | [Docker 🐳](https://docs.docker.com/desktop/windows/install)| [imagem redis 📕🐳](https://hub.docker.com/_/redis) |
-
 | [Yarn🐈](https://yarnpkg.com/getting-started/install) | [npm 📮](https://docs.npmjs.com/cli/v7/commands/npm-install) |
-
 | [Chocolatey 🍫](https://chocolatey.org/install) | [Spotify 🎶](https://developer.spotify.com/console/get-recommendations/) |
 
 
