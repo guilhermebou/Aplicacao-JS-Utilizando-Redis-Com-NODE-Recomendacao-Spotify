@@ -6,21 +6,28 @@
 
 # 👾🎶 Spotify API
 
-[DOC] https://developer.spotify.com/console/get-recommendations
+[DOC 📃](https://developer.spotify.com/console/get-recommendations)
 
 
 # 🍫 Chocolatey 0.11.2
+
 ```terminal
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol =
+[System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object
+System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
 # 📮 npm 6.14.15
+
 ```terminal
 choco install -y --force nodejs
 ```
 
 # 🐈 yarn 1.12.17
+
+```terminal
 npm install --global yarn
+```
 
 # 📕 ioredis 4.28
 ```terminal
@@ -28,7 +35,7 @@ yarn add ioredis
 ```
 
 # 🐳 Docker 20.10.8 
-ativar hyper-v e WSL 
+ativar hyper-v e WSL
 painel de controle/ativar e desativar recursos windows/...
 https://docs.docker.com/desktop/windows/install/ 
 
@@ -49,8 +56,11 @@ Yarn start
 ```
 # 📖🔗 Documentação / Links de instalação
 
+| -------- | ------- |
 | [Docker 🐳](https://docs.docker.com/desktop/windows/install)| [imagem redis 📕🐳](https://hub.docker.com/_/redis) |
+
 | [Yarn🐈](https://yarnpkg.com/getting-started/install) | [npm 📮](https://docs.npmjs.com/cli/v7/commands/npm-install) |
+
 | [Chocolatey 🍫](https://chocolatey.org/install) | [Spotify 🎶](https://developer.spotify.com/console/get-recommendations/) |
 
 
